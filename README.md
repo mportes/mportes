@@ -2,9 +2,9 @@
 
 ☕ Me chamo `Matheus Portes` e tenho `17 anos`
 
-🖥 Atualmente, estou no 2° ano do curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)`
+🖥 Atualmente, estou no 3° ano do curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)`
 
-📚 Estou aprendendo `HTML`, `CSS`, `JavaScript`, `Java` e `SQL`
+📚 Estou aprendendo `HTML`, `CSS`, `JavaScript` e `Java`
 
 🔎 Procuro por um estágio para que eu possa iniciar minha carreira e aprender cada vez mais
 
