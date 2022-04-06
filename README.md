@@ -4,7 +4,7 @@
 
 🖥 Atualmente, estou no 3° ano do curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)`
 
-📚 Estou aprendendo `HTML`, `CSS`, `JavaScript` e `Java`
+📚 Estou aprendendo `HTML`, `CSS`, `JavaScript`, `Java` e `C#`
 
 🔎 Procuro por um estágio para que eu possa iniciar minha carreira e aprender cada vez mais
 
