@@ -6,8 +6,6 @@
 
 📚 Estou aprendendo `HTML`, `CSS`, `JavaScript`, `Java` e `C#`
 
-🔎 Procuro por um estágio para que eu possa iniciar minha carreira e aprender cada vez mais
-
 <div align="center">
   <a href="https://github.com/mportes">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mportes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
