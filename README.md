@@ -1,10 +1,8 @@
 ## alô, alô 🎈
 
-☕ Me chamo `Matheus Portes` e tenho `17 anos`
+☕ Me chamo `Matheus Portes` e tenho `19 anos`
 
-🖥 Atualmente, estou no 3° ano do curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)`
-
-📚 Estou aprendendo `HTML`, `CSS`, `JavaScript`, `Java` e `C#`
+🖥 Atualmente, estou no 4° ano do curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)`
 
 <div align="center">
   <a href="https://github.com/mportes">
