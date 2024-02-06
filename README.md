@@ -1,8 +1,6 @@
-## alô, alô 🎈
+<img align="center" style="margin-bottom:100px" width="100%" src="https://github.com/mportes/mportes/blob/main/assets/cover.png">
 
-☕ Me chamo `Matheus Portes` e tenho `19 anos`
-
-🖥 Atualmente, sou formado no curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)` e estou cursando `Sistemas de Informação` na `Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH-USP)`
+Atualmente, sou formado no curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)` e estou cursando `Sistemas de Informação` na `Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH-USP)`
 
 <div align="center">
   <a href="https://github.com/mportes">
